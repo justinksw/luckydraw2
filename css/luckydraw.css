@@ -66,15 +66,15 @@ body {
 
 .popup {
 	width: 500px;
-  height: 265px;
+	height: 265px;
 	margin-top: 100px;
 	margin-left: auto;
 	margin-right: auto;
-  transition: 200ms ease-in-out;
-  border-radius: 15px;
-  z-index: 50;  
-  background-color: white;
-  font-size: 20px;
+	transition: 200ms ease-in-out;
+	border-radius: 15px;
+	z-index: 50;  
+	background-color: white;
+	font-size: 20px;
 }
 
 .popup2 {
@@ -82,19 +82,19 @@ body {
 }
 
 .popup-header {
-  padding: 12px 15px;
-  display: flex;
-  align-items: center;
+	padding: 12px 15px;
+	display: flex;
+	align-items: center;
 }
 
 .popup-header .close-button {
-  cursor: pointer;
-  border: none;
-  outline: none;
-  background: none;
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: #989898;
+	cursor: pointer;
+	border: none;
+	outline: none;
+	background: none;
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #989898;
 }
 
 .popup-personname {
